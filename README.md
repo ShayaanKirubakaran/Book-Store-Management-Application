@@ -14,7 +14,7 @@ This project integrates multiple OOP concepts including inheritance, encapsulati
 
 ## 🧭 Overview
 
-The **Bookstore Management Application** simulates a real-world online bookstore that supports two types of users:
+The **Bookstore Management Application** simulates a real world online bookstore that supports two types of users:
 - **Admin (Owner)** — manages books and customers.
 - **Customer** — browses, purchases, and earns reward points.
 
