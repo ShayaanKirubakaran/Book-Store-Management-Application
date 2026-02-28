@@ -7,7 +7,7 @@
 
 A **JavaFX-based bookstore management system** built to demonstrate solid **object-oriented design principles**, **modular architecture**, and the **State Pattern** for dynamic customer rewards.
 
-This project integrates multiple OOP concepts — including inheritance, encapsulation, and polymorphism — while showcasing professional JavaFX UI development and design pattern implementation.
+This project integrates multiple OOP concepts including inheritance, encapsulation, and polymorphism, while showcasing professional JavaFX UI development and design pattern implementation.
 
 
 ---
